@@ -1,0 +1,10 @@
+pandas
+openpyxl
+python-pptx
+matplotlib
+OpenCV
+streamlit
+numpy
+math
+cmath
+reportlab

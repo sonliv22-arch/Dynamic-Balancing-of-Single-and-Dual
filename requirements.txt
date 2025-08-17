@@ -1,14 +1,4 @@
-pandas
-openpyxl
-python-pptx
-matplotlib
-OpenCV
-streamlit
-numpy
-math
-cmath
 streamlit
 matplotlib
 numpy
 reportlab
-

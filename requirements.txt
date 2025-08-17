@@ -7,4 +7,8 @@ streamlit
 numpy
 math
 cmath
+streamlit
+matplotlib
+numpy
 reportlab
+
